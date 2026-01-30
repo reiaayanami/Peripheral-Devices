@@ -23,9 +23,9 @@
 * Зберігати компоненти в антистатичних пакетах
 * Працювати на антистатичному килимку
 
-![ESD wrist strap](https://upload.wikimedia.org/wikipedia/commons/3/3a/Antistatic_wrist_strap.jpg)
-![Antistatic mat](https://upload.wikimedia.org/wikipedia/commons/0/0c/Antistatic_mat.jpg)
-![PC repair safety](https://upload.wikimedia.org/wikipedia/commons/6/6a/Computer_repair.jpg)
+![ESD wrist strap](https://m.media-amazon.com/images/I/51TcCqPP0QL._AC_UF894,1000_QL80_.jpg)
+![Antistatic mat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJreHGfG1Hbj7oaSU-iv7sHL5ACCawaDYaQ&s)
+![PC repair safety](https://www.europeanbusinessreview.com/wp-content/uploads/2021/08/Computer-repair.jpg)
 
 ---
 
@@ -40,10 +40,11 @@
 * **Mini Tower** – компактні корпуси з обмеженим простором
 * **Desktop / Slim** – горизонтальні корпуси для офісних ПК
 
-![Computer case sizes](https://upload.wikimedia.org/wikipedia/commons/8/8d/Computer_case_sizes.png)
-![Full tower case](https://upload.wikimedia.org/wikipedia/commons/f/f5/Full_tower_case.jpg)
-![Mid tower case](https://upload.wikimedia.org/wikipedia/commons/1/1e/PC_case_ATX.jpg)
-![Mini tower case](https://upload.wikimedia.org/wikipedia/commons/7/7b/Mini_tower_PC_case.jpg)
+![Computer case sizes](https://techguided.com/wp-content/uploads/2022/03/Computer-Case-Size-Comparison.jpg)
+![Full tower case](https://cdn.gamemaxpc.com/runtime/image/w500px_h500px_1739864780821592.png)
+![Mid tower case](https://gamemaxpc.com/static/upload/image/20240903/1725353275117693.jpg)
+![Mini tower case](https://aerocool.io/wp-content/uploads/2024/03/Viewport-mini-Infographics-1.png)
+![Desktop / Slim](https://e.428.ua/img/3997288/220/220/gamemax_st-612-2u3-tyc_400w~750~1127.jpg)
 
 ---
 
@@ -66,9 +67,9 @@
 * **SATA** – накопичувачі
 * **Molex** – додаткові пристрої
 
-![Power supply unit](https://upload.wikimedia.org/wikipedia/commons/5/5e/Computer_power_supply.jpg)
-![ATX power connectors](https://upload.wikimedia.org/wikipedia/commons/3/3f/ATX_power_supply_connectors.jpg)
-![PCIe power cable](https://upload.wikimedia.org/wikipedia/commons/9/9a/PCIe_power_connector.jpg)
+![Power supply unit](https://upload.wikimedia.org/wikipedia/commons/6/62/PSU-Open1.jpg)
+![ATX power connectors](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0bDAzo7zozEuoSyNpGpwNln9XpPG0qvS0NA&s)
+![PCIe power cable](https://m.media-amazon.com/images/I/81aGyjzwgSL._AC_UF1000,1000_QL80_.jpg)
 
 ---
 
@@ -86,9 +87,9 @@
 6. **Розʼєми живлення** – подача електроенергії на плату
 7. **Порти введення/виведення (I/O)** – USB, HDMI, LAN тощо
 
-![Motherboard diagram](https://upload.wikimedia.org/wikipedia/commons/4/4a/Motherboard_diagram.svg)
-![ATX motherboard](https://upload.wikimedia.org/wikipedia/commons/2/2c/ATX_Motherboard.jpg)
-![Motherboard ports](https://upload.wikimedia.org/wikipedia/commons/9/9d/Motherboard_IO_ports.jpg)
+![Motherboard diagram](https://i.pinimg.com/736x/3c/34/20/3c342046c8039a2e0e56536a9213356c.jpg)
+![ATX motherboard](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIA_Mini-ITX_Form_Factor_Comparison.jpg/500px-VIA_Mini-ITX_Form_Factor_Comparison.jpg)
+![Motherboard ports](https://www.tutorialsweb.com/computers/Images/pc-mot3.jpg)
 
 ---
 
