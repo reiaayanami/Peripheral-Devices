@@ -48,7 +48,7 @@
 ![Computer case sizes](https://techguided.com/wp-content/uploads/2022/03/Computer-Case-Size-Comparison.jpg)  
 *Порівняння розмірів корпусів ПК*
 
-![Full tower case](https://cdn.gamemaxpc.com/runtime/image/w500px_h500px_1739864780821592.png)  
+![Full tower case](https://br.thermaltake.com/media/catalog/product/cache/6d056a87c91b88ea869075bcdd058dec/c/o/core-p8-1.jpg)  
 *Корпус форм-фактора Full Tower*
 
 ![Mid tower case](https://gamemaxpc.com/static/upload/image/20240903/1725353275117693.jpg)  
@@ -119,4 +119,3 @@
 
 **Дисципліна:** Peripheral Devices  
 **Формат:** Markdown (.md)  
-**Джерела:** Cisco IT Essentials v7.01, Wikimedia Commons
