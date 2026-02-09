@@ -124,7 +124,7 @@ DDR5 — новіший стандарт оперативної памʼяті, 
 * Призначення: для настільних ПК
 * Гарантія: **5 років**
 
-![DDR5 installed](https://d1q3zw97enxzq2.cloudfront.net/images/Align_Dram.width-1000.format-webp.webp)  
+![DDR5 installed](https://www.wepc.com/wp-content/uploads/2022/08/How-to-upgrade-RAM-on-laptop-devices-DDR5-laptop-RAM-upgrade.jpg)  
 *DDR5 у сучасному ПК*
 
 ---
